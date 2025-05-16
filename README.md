@@ -37,6 +37,7 @@ A simple quiz app that tests knowledge of key moments in African history with tr
    - List of all questions  
    - Correct/incorrect indicators  
    - Explanations for each answer
+   - Exit Button
 
 ## Technical Details
 
