@@ -2,7 +2,8 @@ Introduction to Mobile Application Development - Assignment 2
 
 MODULE CODE - IMAD 5112 STUDENT NAME - LESEGO SEBAKO STUDENT NUMBER - ST 10493865
 
-Github Link - 
+Github Link - https://github.com/LesegoSebako/AfricanHistoryChallenge
+
 Youtube Link - https://youtu.be/B7CllPZsdk4
 
 # African History Challenge
