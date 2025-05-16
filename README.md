@@ -1,3 +1,7 @@
+Introduction to Mobile Application Development - Assignment 2
+MODULE CODE - IMAD 5112 STUDENT NAME - LESEGO SEBAKO STUDENT NUMBER - ST 10493865
+
+
 # African History Challenge
 
 A simple quiz app that tests knowledge of key moments in African history with true/false questions.
